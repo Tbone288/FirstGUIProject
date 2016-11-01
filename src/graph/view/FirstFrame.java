@@ -1,6 +1,6 @@
 package graph.view;
 
-public class GraphViewer
+public class FirstFrame
 {
 
 }
