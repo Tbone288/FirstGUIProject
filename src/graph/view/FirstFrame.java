@@ -21,7 +21,7 @@ public class FirstFrame extends JFrame
 	private void setupFrame()
 	{
 		this.setContentPane(appPanel);
-		this.setTitle("WINDOWS!! HORRAY!!");
+		this.setTitle("COLORS! YAY!");
 		this.setSize(new Dimension(600,400));
 		this.setVisible(true);
 	}
