@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 import java.awt.Dimension;
 import graph.controller.GraphController;
 
-public class FirstFrame extends JFrame
+public class FirstFrame
 {
 	private GraphController baseController;
 	private FirstPanel appPanel;
